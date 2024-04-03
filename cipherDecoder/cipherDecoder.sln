@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cipherDecoder", "cipherDecoder\cipherDecoder.csproj", "{3CF3C297-5A0F-4C93-BA3E-AC8077F42BEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CF3C297-5A0F-4C93-BA3E-AC8077F42BEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CF3C297-5A0F-4C93-BA3E-AC8077F42BEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CF3C297-5A0F-4C93-BA3E-AC8077F42BEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CF3C297-5A0F-4C93-BA3E-AC8077F42BEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D73CFA63-7B28-4D1C-8C4F-BABD3D1C7F1A}
+	EndGlobalSection
+EndGlobal

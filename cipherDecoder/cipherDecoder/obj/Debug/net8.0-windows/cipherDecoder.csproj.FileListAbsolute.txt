@@ -1,0 +1,16 @@
+C:\Users\KEKei\source\repos\cipherDecoder\cipherDecoder\bin\Debug\net8.0-windows\cipherDecoder.exe
+C:\Users\KEKei\source\repos\cipherDecoder\cipherDecoder\bin\Debug\net8.0-windows\cipherDecoder.deps.json
+C:\Users\KEKei\source\repos\cipherDecoder\cipherDecoder\bin\Debug\net8.0-windows\cipherDecoder.runtimeconfig.json
+C:\Users\KEKei\source\repos\cipherDecoder\cipherDecoder\bin\Debug\net8.0-windows\cipherDecoder.dll
+C:\Users\KEKei\source\repos\cipherDecoder\cipherDecoder\bin\Debug\net8.0-windows\cipherDecoder.pdb
+C:\Users\KEKei\source\repos\cipherDecoder\cipherDecoder\obj\Debug\net8.0-windows\cipherDecoder.frmCodeTranslator.resources
+C:\Users\KEKei\source\repos\cipherDecoder\cipherDecoder\obj\Debug\net8.0-windows\cipherDecoder.csproj.GenerateResource.cache
+C:\Users\KEKei\source\repos\cipherDecoder\cipherDecoder\obj\Debug\net8.0-windows\cipherDecoder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KEKei\source\repos\cipherDecoder\cipherDecoder\obj\Debug\net8.0-windows\cipherDecoder.AssemblyInfoInputs.cache
+C:\Users\KEKei\source\repos\cipherDecoder\cipherDecoder\obj\Debug\net8.0-windows\cipherDecoder.AssemblyInfo.cs
+C:\Users\KEKei\source\repos\cipherDecoder\cipherDecoder\obj\Debug\net8.0-windows\cipherDecoder.csproj.CoreCompileInputs.cache
+C:\Users\KEKei\source\repos\cipherDecoder\cipherDecoder\obj\Debug\net8.0-windows\cipherDecoder.dll
+C:\Users\KEKei\source\repos\cipherDecoder\cipherDecoder\obj\Debug\net8.0-windows\refint\cipherDecoder.dll
+C:\Users\KEKei\source\repos\cipherDecoder\cipherDecoder\obj\Debug\net8.0-windows\cipherDecoder.pdb
+C:\Users\KEKei\source\repos\cipherDecoder\cipherDecoder\obj\Debug\net8.0-windows\cipherDecoder.genruntimeconfig.cache
+C:\Users\KEKei\source\repos\cipherDecoder\cipherDecoder\obj\Debug\net8.0-windows\ref\cipherDecoder.dll
